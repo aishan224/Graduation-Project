@@ -22,6 +22,7 @@ class ToolsUi(QDialog):
         self.resize(700, 480)
         self.setAcceptDrops(False)
         self.setSizeGripEnabled(False)
+        self.setWindowIcon(QtGui.QIcon('controller.png'))
 
         # 定义控件
         self.label_None = QtWidgets.QLabel()
