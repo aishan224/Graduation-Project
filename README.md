@@ -1,4 +1,5 @@
 # Graduation-Project
+17363003-蔡云龙-智科1班
 说明：
 - Exercise1文件夹为实验1代码
   - testSend文件夹为Arduino控制LoRa设备发送数据的程序
